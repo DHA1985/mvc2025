@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MyMVC2025.Models;
+using DHA.DataAccess;
 
 namespace MyMVC2025.Controllers;
 
@@ -15,7 +16,10 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        DHA.DataAccess.Math m = new DHA.DataAccess.Math();
+        string gr = m.Greeting();
         return View();
+
     }
 
     public IActionResult Privacy()

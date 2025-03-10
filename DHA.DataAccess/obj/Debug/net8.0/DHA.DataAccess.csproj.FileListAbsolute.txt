@@ -1,0 +1,12 @@
+/workspaces/mvc2025/DHA.DataAccess/bin/Debug/net8.0/DHA.DataAccess.deps.json
+/workspaces/mvc2025/DHA.DataAccess/bin/Debug/net8.0/DHA.DataAccess.dll
+/workspaces/mvc2025/DHA.DataAccess/bin/Debug/net8.0/DHA.DataAccess.pdb
+/workspaces/mvc2025/DHA.DataAccess/obj/Debug/net8.0/DHA.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mvc2025/DHA.DataAccess/obj/Debug/net8.0/DHA.DataAccess.AssemblyInfoInputs.cache
+/workspaces/mvc2025/DHA.DataAccess/obj/Debug/net8.0/DHA.DataAccess.AssemblyInfo.cs
+/workspaces/mvc2025/DHA.DataAccess/obj/Debug/net8.0/DHA.DataAccess.csproj.CoreCompileInputs.cache
+/workspaces/mvc2025/DHA.DataAccess/obj/Debug/net8.0/DHA.DataAccess.sourcelink.json
+/workspaces/mvc2025/DHA.DataAccess/obj/Debug/net8.0/DHA.DataAccess.dll
+/workspaces/mvc2025/DHA.DataAccess/obj/Debug/net8.0/refint/DHA.DataAccess.dll
+/workspaces/mvc2025/DHA.DataAccess/obj/Debug/net8.0/DHA.DataAccess.pdb
+/workspaces/mvc2025/DHA.DataAccess/obj/Debug/net8.0/ref/DHA.DataAccess.dll
