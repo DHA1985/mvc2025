@@ -1,7 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <ItemGroup>
-    <ProjectReference Include="..\DHA.DataAccess\DHA.DataAccess.csproj" />
+    <ProjectReference Include="..\MyMVC.DataAccess\MyMVC.DataAccess.csproj" />
+  </ItemGroup>
+   <ItemGroup>
+    <ProjectReference Include="..\MyMVC.Model\MyMVC.Model.csproj" />
   </ItemGroup>
 
   <ItemGroup>

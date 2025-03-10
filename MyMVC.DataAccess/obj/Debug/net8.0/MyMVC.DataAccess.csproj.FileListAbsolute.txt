@@ -1,0 +1,12 @@
+/workspaces/mvc2025/MyMVC.DataAccess/bin/Debug/net8.0/MyMVC.DataAccess.deps.json
+/workspaces/mvc2025/MyMVC.DataAccess/bin/Debug/net8.0/MyMVC.DataAccess.dll
+/workspaces/mvc2025/MyMVC.DataAccess/bin/Debug/net8.0/MyMVC.DataAccess.pdb
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/MyMVC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/MyMVC.DataAccess.AssemblyInfoInputs.cache
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/MyMVC.DataAccess.AssemblyInfo.cs
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/MyMVC.DataAccess.csproj.CoreCompileInputs.cache
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/MyMVC.DataAccess.sourcelink.json
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/MyMVC.DataAccess.dll
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/refint/MyMVC.DataAccess.dll
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/MyMVC.DataAccess.pdb
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/ref/MyMVC.DataAccess.dll

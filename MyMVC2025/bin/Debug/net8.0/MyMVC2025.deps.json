@@ -8,8 +8,9 @@
     ".NETCoreApp,Version=v8.0": {
       "MyMVC2025/1.0.0": {
         "dependencies": {
-          "DHA.DataAccess": "1.0.0",
-          "Microsoft.AspNetCore.Mvc": "2.3.0"
+          "Microsoft.AspNetCore.Mvc": "2.3.0",
+          "MyMVC.DataAccess": "1.0.0",
+          "MyMVC.Model": "1.0.0"
         },
         "runtime": {
           "MyMVC2025.dll": {}
@@ -1295,9 +1296,17 @@
           "System.Xml.XPath": "4.3.0"
         }
       },
-      "DHA.DataAccess/1.0.0": {
+      "MyMVC.DataAccess/1.0.0": {
         "runtime": {
-          "DHA.DataAccess.dll": {
+          "MyMVC.DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyMVC.Model/1.0.0": {
+        "runtime": {
+          "MyMVC.Model.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -2368,7 +2377,12 @@
       "path": "system.xml.xpath.xdocument/4.3.0",
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
     },
-    "DHA.DataAccess/1.0.0": {
+    "MyMVC.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMVC.Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

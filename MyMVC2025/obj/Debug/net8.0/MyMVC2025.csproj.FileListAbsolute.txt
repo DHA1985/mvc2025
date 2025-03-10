@@ -39,8 +39,6 @@
 /workspaces/mvc2025/MyMVC2025/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
 /workspaces/mvc2025/MyMVC2025/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
 /workspaces/mvc2025/MyMVC2025/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
-/workspaces/mvc2025/MyMVC2025/bin/Debug/net8.0/DHA.DataAccess.dll
-/workspaces/mvc2025/MyMVC2025/bin/Debug/net8.0/DHA.DataAccess.pdb
 /workspaces/mvc2025/MyMVC2025/obj/Debug/net8.0/staticwebassets.build.json
 /workspaces/mvc2025/MyMVC2025/obj/Debug/net8.0/staticwebassets.development.json
 /workspaces/mvc2025/MyMVC2025/obj/Debug/net8.0/staticwebassets/msbuild.MyMVC2025.Microsoft.AspNetCore.StaticWebAssets.props
@@ -57,3 +55,7 @@
 /workspaces/mvc2025/MyMVC2025/obj/Debug/net8.0/MyMVC2025.pdb
 /workspaces/mvc2025/MyMVC2025/obj/Debug/net8.0/MyMVC2025.genruntimeconfig.cache
 /workspaces/mvc2025/MyMVC2025/obj/Debug/net8.0/ref/MyMVC2025.dll
+/workspaces/mvc2025/MyMVC2025/bin/Debug/net8.0/MyMVC.DataAccess.dll
+/workspaces/mvc2025/MyMVC2025/bin/Debug/net8.0/MyMVC.Model.dll
+/workspaces/mvc2025/MyMVC2025/bin/Debug/net8.0/MyMVC.DataAccess.pdb
+/workspaces/mvc2025/MyMVC2025/bin/Debug/net8.0/MyMVC.Model.pdb

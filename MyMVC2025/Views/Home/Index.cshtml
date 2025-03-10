@@ -9,9 +9,8 @@
 
 
 @model List<Customer>
-
+<div class="Container">
 <h2>Customer List</h2>
-
 <table class="table">
     <thead>
         <tr>
@@ -21,7 +20,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var customer in Model)
+       @foreach (var customer in Model)
         {
             <tr>
                 <td>@customer.Id</td>
@@ -31,3 +30,4 @@
         }
     </tbody>
 </table>
+</div>

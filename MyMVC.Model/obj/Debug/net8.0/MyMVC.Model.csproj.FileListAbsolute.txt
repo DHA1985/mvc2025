@@ -1,0 +1,12 @@
+/workspaces/mvc2025/MyMVC.Model/bin/Debug/net8.0/MyMVC.Model.deps.json
+/workspaces/mvc2025/MyMVC.Model/bin/Debug/net8.0/MyMVC.Model.dll
+/workspaces/mvc2025/MyMVC.Model/bin/Debug/net8.0/MyMVC.Model.pdb
+/workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/MyMVC.Model.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/MyMVC.Model.AssemblyInfoInputs.cache
+/workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/MyMVC.Model.AssemblyInfo.cs
+/workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/MyMVC.Model.csproj.CoreCompileInputs.cache
+/workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/MyMVC.Model.sourcelink.json
+/workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/MyMVC.Model.dll
+/workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/refint/MyMVC.Model.dll
+/workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/MyMVC.Model.pdb
+/workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/ref/MyMVC.Model.dll

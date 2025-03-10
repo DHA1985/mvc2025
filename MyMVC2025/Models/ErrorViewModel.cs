@@ -1,5 +1,6 @@
 namespace MyMVC2025.Models;
 
+
 public class ErrorViewModel
 {
     public string? RequestId { get; set; }

@@ -2331,14 +2331,24 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "DHA.DataAccess/1.0.0": {
+      "MyMVC.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/DHA.DataAccess.dll": {}
+          "bin/placeholder/MyMVC.DataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DHA.DataAccess.dll": {}
+          "bin/placeholder/MyMVC.DataAccess.dll": {}
+        }
+      },
+      "MyMVC.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyMVC.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyMVC.Model.dll": {}
         }
       }
     }
@@ -5943,16 +5953,22 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "DHA.DataAccess/1.0.0": {
+    "MyMVC.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../DHA.DataAccess/DHA.DataAccess.csproj",
-      "msbuildProject": "../DHA.DataAccess/DHA.DataAccess.csproj"
+      "path": "../MyMVC.DataAccess/MyMVC.DataAccess.csproj",
+      "msbuildProject": "../MyMVC.DataAccess/MyMVC.DataAccess.csproj"
+    },
+    "MyMVC.Model/1.0.0": {
+      "type": "project",
+      "path": "../MyMVC.Model/MyMVC.Model.csproj",
+      "msbuildProject": "../MyMVC.Model/MyMVC.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "DHA.DataAccess >= 1.0.0",
-      "Microsoft.AspNetCore.Mvc >= 2.3.0"
+      "Microsoft.AspNetCore.Mvc >= 2.3.0",
+      "MyMVC.DataAccess >= 1.0.0",
+      "MyMVC.Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5980,8 +5996,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/workspaces/mvc2025/DHA.DataAccess/DHA.DataAccess.csproj": {
-              "projectPath": "/workspaces/mvc2025/DHA.DataAccess/DHA.DataAccess.csproj"
+            "/workspaces/mvc2025/MyMVC.DataAccess/MyMVC.DataAccess.csproj": {
+              "projectPath": "/workspaces/mvc2025/MyMVC.DataAccess/MyMVC.DataAccess.csproj"
+            },
+            "/workspaces/mvc2025/MyMVC.Model/MyMVC.Model.csproj": {
+              "projectPath": "/workspaces/mvc2025/MyMVC.Model/MyMVC.Model.csproj"
             }
           }
         }

@@ -1,0 +1,31 @@
+/* Custom Styles for My MVC App */
+
+/* Add some padding to the body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+}
+
+/* Customize navbar colors */
+.navbar {
+    background-color: #343a40;
+}
+
+.nav-link {
+    color: #f8f9fa !important;
+}
+
+.nav-link:hover {
+    color: #ffc107 !important;
+}
+
+/* Footer styling */
+footer {
+    background-color: #343a40;
+    color: #f8f9fa;
+}
+
+footer p {
+    margin: 0;
+    padding: 10px 0;
+}
