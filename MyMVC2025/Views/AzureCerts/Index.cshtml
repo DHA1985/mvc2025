@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@model MyMVC.Model.AzureCerts
+<div class="Container">
+<h2>Customer List</h2>
+<h3> ID: @Model.CertID </h3>
+<h3> Name: @Model.Name </h3>
+<h3> Note: @Model.Note</h3>
+</div>

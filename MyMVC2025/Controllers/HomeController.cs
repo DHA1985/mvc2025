@@ -18,21 +18,17 @@ public class HomeController : Controller
     {
         MyMVC.DataAccess.Math m = new MyMVC.DataAccess.Math();
         string gr = m.Greeting();
-        MyMVC.Model.Customer customers = new MyMVC.Model.Customer();
-        customers.Id = 1;
-        customers.Name = "AuDH";
-        customers.Email = "test@gmail.com";
-       
+             
         //return View(c);
         //return View();
         //return Content("This is Au testing");
          // Sample customer data
-        /*var customers = new List<Customer>
+       var customers = new List<Customer>
         {
             new Customer { Id = 1, Name = "Alice Johnson", Email = "alice@example.com" },
             new Customer { Id = 2, Name = "Bob Smith", Email = "bob@example.com" },
             new Customer { Id = 3, Name = "Charlie Davis", Email = "charlie@example.com" }
-        }; */
+        }; 
 
         // Pass data to the View
         return View(customers);
