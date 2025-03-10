@@ -18,7 +18,19 @@ public class HomeController : Controller
     {
         DHA.DataAccess.Math m = new DHA.DataAccess.Math();
         string gr = m.Greeting();
-        return View();
+        //return View();
+        //return Content("This is Au testing");
+         // Sample customer data
+        var customers = new List<Customer>
+        {
+            new Customer { Id = 1, Name = "Alice Johnson", Email = "alice@example.com" },
+            new Customer { Id = 2, Name = "Bob Smith", Email = "bob@example.com" },
+            new Customer { Id = 3, Name = "Charlie Davis", Email = "charlie@example.com" }
+        };
+
+        // Pass data to the View
+        return View(customers);
+       
 
     }
 
