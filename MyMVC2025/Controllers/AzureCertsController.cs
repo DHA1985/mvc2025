@@ -22,6 +22,12 @@ public class AzureCertsController : Controller
 
     }
 
+    public IActionResult Details(string id)
+    {
+        ViewData["CertificationId"] = id;
+        return View();
+    }
+
     public IActionResult Privacy()
     {
         return View();

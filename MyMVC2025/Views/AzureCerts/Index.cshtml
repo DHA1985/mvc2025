@@ -1,17 +1,32 @@
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Azure Certifications";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<div class="container">
+    <h1>Azure Certifications</h1>
 
+    <h2>Fundamental Level</h2>
+    <ul>
+        <li><a asp-area="" asp-controller="AzureCerts" asp-action="Details" asp-route-id="AZ-900">AZ-900: Microsoft Azure Fundamentals</a></li>
+        <li><a asp-area="" asp-controller="AzureCerts" asp-action="Details" asp-route-id="SC-900">SC-900: Security, Compliance, and Identity Fundamentals</a></li>
+    </ul>
 
-@model MyMVC.Model.AzureCerts
-<div class="Container">
-<h2>Customer List</h2>
-<h3> ID: @Model.CertID </h3>
-<h3> Name: @Model.Name </h3>
-<h3> Note: @Model.Note</h3>
+    <h2>Associate Level</h2>
+    <ul>
+        <li><a asp-area="" asp-controller="AzureCerts" asp-action="Details" asp-route-id="AZ-104" target="_blank">AZ-104: Microsoft Azure Administrator</a></li>
+        <li><a asp-area="" asp-controller="AzureCerts" asp-action="Details" asp-route-id="AZ-204" target="_blank">AZ-204: Microsoft Azure Developer</a></li>
+        <li><a asp-area="" asp-controller="AzureCerts" asp-action="Details" asp-route-id="SC-300" target="_blank">SC-300: Identity and Access Administrator</a></li>
+    </ul>
+
+    <h2>Expert Level</h2>
+    <ul>
+        <li><a asp-area="" asp-controller="AzureCerts" asp-action="Details" asp-route-id="AZ-305" target="_blank">AZ-305: Microsoft Azure Solutions Architect Expert</a></li>
+        <li><a asp-area="" asp-controller="AzureCerts" asp-action="Details" asp-route-id="SC-100" target="_blank">SC-100: Microsoft Cybersecurity Architect</a></li>
+    </ul>
+
+    <h2>Specialty Level</h2>
+    <ul>
+        <li><a asp-area="" asp-controller="AzureCerts" asp-action="Details" asp-route-id="AZ-500" target="_blank">AZ-500: Microsoft Azure Security Engineer</a></li>
+        <li><a asp-area="" asp-controller="AzureCerts" asp-action="Details" asp-route-id="AZ-220" target="_blank">AZ-220: Azure IoT Developer</a></li>
+    </ul>
 </div>

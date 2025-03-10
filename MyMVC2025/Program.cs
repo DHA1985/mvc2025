@@ -22,5 +22,11 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=AzureCerts}/{action=Index}/{id?}");   
+    pattern: "{controller=Home}/{action=Index}/{id?}");   
+
+// Dau Au added another route
+/* app.MapControllerRoute(
+    name: "azure",
+    pattern: "{controller=AzureCerts}/{action=Index}/{id?}"); */
+
 app.Run();
