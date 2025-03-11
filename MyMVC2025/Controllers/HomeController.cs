@@ -23,12 +23,19 @@ public class HomeController : Controller
         //return View();
         //return Content("This is Au testing");
          // Sample customer data
-       var customers = new List<Customer>
+        Customer cu = new Customer(1, "Au", "test@emai.com");
+        Customer cu2 = new Customer(1, "Au2", "test@emai.com");
+        var customers = new List<Customer>();
+        customers.Add(new Customer(1,"Au","test@gmail.com"));
+        customers.Add(new Customer(2, "Duc", "Duc@gmail.com"));
+        
+       /*  var customers = new List<Customer>;
+       
         {
             new Customer { Id = 1, Name = "Alice Johnson", Email = "alice@example.com" },
             new Customer { Id = 2, Name = "Bob Smith", Email = "bob@example.com" },
             new Customer { Id = 3, Name = "Charlie Davis", Email = "charlie@example.com" }
-        }; 
+        };  */
 
         // Pass data to the View
         return View(customers);

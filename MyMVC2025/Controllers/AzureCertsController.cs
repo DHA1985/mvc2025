@@ -24,8 +24,13 @@ public class AzureCertsController : Controller
 
     public IActionResult Details(string id)
     {
-        ViewData["CertificationId"] = id;
-        return View();
+        //ViewData["CertificationId"] = id;
+        //return View();
+       // MyMVC.Model.Customer cu = new MyMVC.Model.Customer( 3, "APM", "APM@gmail.com");
+        //ViewData["Customer"] = cu;
+        return Content(id);
+        
+        //return View();
     }
 
     public IActionResult Privacy()

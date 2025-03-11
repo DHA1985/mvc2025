@@ -10,3 +10,4 @@
 /workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/refint/MyMVC.DataAccess.dll
 /workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/MyMVC.DataAccess.pdb
 /workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/ref/MyMVC.DataAccess.dll
+/workspaces/mvc2025/MyMVC.DataAccess/obj/Debug/net8.0/MyMVC.DataAccess.csproj.AssemblyReference.cache
