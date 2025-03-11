@@ -2,7 +2,10 @@ using Microsoft.Data.SqlClient;
 using System;
 using System.Data;
 
-namespace YourNamespace
+/*
+Date Created: 2025.03.11
+*/
+namespace DataAccess
 {
     public class SqlConnect
     {

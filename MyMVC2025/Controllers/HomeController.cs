@@ -1,10 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MyMVC2025.Models;
-using MyMVC.DataAccess;
 using MyMVC.Model;
 namespace MyMVC2025.Controllers;
-
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
@@ -16,9 +14,8 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        MyMVC.DataAccess.Math m = new MyMVC.DataAccess.Math();
-        string gr = m.Greeting();
-             
+        
+              
         //return View(c);
         //return View();
         //return Content("This is Au testing");

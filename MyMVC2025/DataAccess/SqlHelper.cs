@@ -2,7 +2,7 @@ using Microsoft.Data.SqlClient;
 using System;
 using System.Data;
 
-namespace YourNamespace
+namespace DataAccess
 {
     public class SqlHelper
     {

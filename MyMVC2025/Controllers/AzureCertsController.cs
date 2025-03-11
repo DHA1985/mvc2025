@@ -1,7 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MyMVC2025.Models;
-using MyMVC.DataAccess;
 using MyMVC.Model;
 namespace MyMVC2025.Controllers;
 
