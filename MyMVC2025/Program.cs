@@ -1,4 +1,10 @@
+using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
+
+// Add database context
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -24,9 +30,6 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");   
 
-// Dau Au added another route
-/* app.MapControllerRoute(
-    name: "azure",
-    pattern: "{controller=AzureCerts}/{action=Index}/{id?}"); */
+
 
 app.Run();

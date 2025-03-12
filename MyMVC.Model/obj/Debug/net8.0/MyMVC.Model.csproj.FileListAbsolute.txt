@@ -10,3 +10,15 @@
 /workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/refint/MyMVC.Model.dll
 /workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/MyMVC.Model.pdb
 /workspaces/mvc2025/MyMVC.Model/obj/Debug/net8.0/ref/MyMVC.Model.dll
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\bin\Debug\net8.0\MyMVC.Model.deps.json
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\bin\Debug\net8.0\MyMVC.Model.dll
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\bin\Debug\net8.0\MyMVC.Model.pdb
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.AssemblyInfo.cs
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.sourcelink.json
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.dll
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\refint\MyMVC.Model.dll
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.pdb
+C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\ref\MyMVC.Model.dll

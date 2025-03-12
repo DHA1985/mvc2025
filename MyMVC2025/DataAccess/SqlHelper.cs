@@ -14,6 +14,33 @@ namespace DataAccess
             _sqlConnect = new SqlConnect(connectionString);
         }
 
+        public DataTable ExecuteSelectAll(string storedProcedureName)
+        {
+            try
+            {   
+                using (SqlConnection connection = _sqlConnect.GetConnection())
+                {
+                    using (SqlCommand command = new SqlCommand(storedProcedureName, connection))
+                    {
+                        command.CommandType = CommandType.StoredProcedure;
+                        //command.Parameters.AddRange(parameters);
+
+                        using (SqlDataAdapter adapter = new SqlDataAdapter(command))
+                        {
+                            DataTable resultTable = new DataTable();
+                            adapter.Fill(resultTable);
+                            return resultTable;
+                        }
+                    }
+                }
+            }            
+            catch(Exception ex)
+            {
+                Console.WriteLine($"Error executing SELECT procedure: {ex.Message}");
+                throw;
+            }
+        }
+
         // Method to execute a stored procedure for Select queries (returns a DataTable)
         public DataTable ExecuteSelectProcedure(string storedProcedureName, params SqlParameter[] parameters)
         {
