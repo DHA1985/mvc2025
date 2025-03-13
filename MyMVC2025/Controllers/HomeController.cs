@@ -2,6 +2,11 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MyMVC2025.Models;
 using MyMVC.Model;
+using System.Collections.Generic;
+using System.Net.Http;
+using System.Text.Json;
+using System.Threading.Tasks;
+
 namespace MyMVC2025.Controllers;
 public class HomeController : Controller
 {
@@ -36,14 +41,42 @@ public class HomeController : Controller
 
         // Pass data to the View
         return View(customers);
-       
+        //Au test return json from API
+        
 
     }
 
-    public IActionResult Privacy()
+    //index method to return data from API
+      
+
+
+    public async Task<IActionResult> WeatherForecast()
     {
-        return View();
+       
+                using (HttpClient httpClient = new HttpClient()) // Initialize HttpClient here
+        {
+            var response = await httpClient.GetStringAsync("http://localhost:5000/WeatherForecast");
+            var formattedJson = JsonSerializer.Serialize(
+            JsonSerializer.Deserialize<object>(response), 
+            new JsonSerializerOptions { WriteIndented = true }
+        );
+
+
+        return Content(formattedJson);
+           
+        }
+        //return View(products);
+       
     }
+    
+    public string GetAPIData()
+    {
+        
+
+        return "";
+
+    }
+   
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
