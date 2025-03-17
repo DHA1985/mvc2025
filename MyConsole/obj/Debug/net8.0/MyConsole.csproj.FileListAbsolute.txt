@@ -1,0 +1,15 @@
+C:\Users\Administrator\Github\mvc2025\MyConsole\bin\Debug\net8.0\MyConsole.exe
+C:\Users\Administrator\Github\mvc2025\MyConsole\bin\Debug\net8.0\MyConsole.deps.json
+C:\Users\Administrator\Github\mvc2025\MyConsole\bin\Debug\net8.0\MyConsole.runtimeconfig.json
+C:\Users\Administrator\Github\mvc2025\MyConsole\bin\Debug\net8.0\MyConsole.dll
+C:\Users\Administrator\Github\mvc2025\MyConsole\bin\Debug\net8.0\MyConsole.pdb
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\MyConsole.AssemblyInfoInputs.cache
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\MyConsole.AssemblyInfo.cs
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\MyConsole.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\MyConsole.sourcelink.json
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\MyConsole.dll
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\refint\MyConsole.dll
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\MyConsole.pdb
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\MyConsole.genruntimeconfig.cache
+C:\Users\Administrator\Github\mvc2025\MyConsole\obj\Debug\net8.0\ref\MyConsole.dll
