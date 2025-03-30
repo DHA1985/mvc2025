@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Github\\mvc2025\\MyConsole\\MyConsole.csproj": {}
+    "C:\\MVC2025\\mvc2025\\MyConsole\\MyConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Github\\mvc2025\\MyConsole\\MyConsole.csproj": {
+    "C:\\MVC2025\\mvc2025\\MyConsole\\MyConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Github\\mvc2025\\MyConsole\\MyConsole.csproj",
+        "projectUniqueName": "C:\\MVC2025\\mvc2025\\MyConsole\\MyConsole.csproj",
         "projectName": "MyConsole",
-        "projectPath": "C:\\Users\\Administrator\\Github\\mvc2025\\MyConsole\\MyConsole.csproj",
+        "projectPath": "C:\\MVC2025\\mvc2025\\MyConsole\\MyConsole.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Github\\mvc2025\\MyConsole\\obj\\",
+        "outputPath": "C:\\MVC2025\\mvc2025\\MyConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

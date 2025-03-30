@@ -17,79 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyMVC2025
 build_property.RootNamespace = MyMVC2025
-build_property.ProjectDir = C:\Users\Administrator\Github\mvc2025\MyMVC2025\
+build_property.ProjectDir = C:\MVC2025\mvc2025\MyMVC2025\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrator\Github\mvc2025\MyMVC2025
+build_property.MSBuildProjectDirectory = C:\MVC2025\mvc2025\MyMVC2025
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/AzureCerts/Details.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/AzureCerts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVDZXJ0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/AzureCerts/Index.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/AzureCerts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVDZXJ0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Home/Index.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Home/Privacy.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Home/WeatherForecast.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Home/WeatherForecast.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWF0aGVyRm9yZWNhc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Product/Create.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Product/Delete.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Product/Details.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Product/Edit.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Product/Index.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Shared/Error.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Shared/_LayoutOrginalFile.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Shared/_LayoutOrginalFile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRPcmdpbmFsRmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/TodoType/Index.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/TodoType/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1R5cGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/_ViewImports.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/_ViewStart.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Github/mvc2025/MyMVC2025/Views/Shared/_Layout.cshtml]
+[C:/MVC2025/mvc2025/MyMVC2025/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-16y7kl1sas

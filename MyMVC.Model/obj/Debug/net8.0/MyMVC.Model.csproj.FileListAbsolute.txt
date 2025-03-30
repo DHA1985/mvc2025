@@ -22,3 +22,15 @@ C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.d
 C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\refint\MyMVC.Model.dll
 C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.pdb
 C:\Users\Administrator\Github\mvc2025\MyMVC.Model\obj\Debug\net8.0\ref\MyMVC.Model.dll
+C:\MVC2025\mvc2025\MyMVC.Model\bin\Debug\net8.0\MyMVC.Model.deps.json
+C:\MVC2025\mvc2025\MyMVC.Model\bin\Debug\net8.0\MyMVC.Model.dll
+C:\MVC2025\mvc2025\MyMVC.Model\bin\Debug\net8.0\MyMVC.Model.pdb
+C:\MVC2025\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\MVC2025\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.AssemblyInfoInputs.cache
+C:\MVC2025\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.AssemblyInfo.cs
+C:\MVC2025\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.csproj.CoreCompileInputs.cache
+C:\MVC2025\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.sourcelink.json
+C:\MVC2025\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.dll
+C:\MVC2025\mvc2025\MyMVC.Model\obj\Debug\net8.0\refint\MyMVC.Model.dll
+C:\MVC2025\mvc2025\MyMVC.Model\obj\Debug\net8.0\MyMVC.Model.pdb
+C:\MVC2025\mvc2025\MyMVC.Model\obj\Debug\net8.0\ref\MyMVC.Model.dll

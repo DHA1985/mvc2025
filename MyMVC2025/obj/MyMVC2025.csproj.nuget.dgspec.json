@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC2025\\MyMVC2025.csproj": {}
+    "C:\\MVC2025\\mvc2025\\MyMVC2025\\MyMVC2025.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj": {
+    "C:\\MVC2025\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj",
+        "projectUniqueName": "C:\\MVC2025\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj",
         "projectName": "MyMVC.Model",
-        "projectPath": "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj",
+        "projectPath": "C:\\MVC2025\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC.Model\\obj\\",
+        "outputPath": "C:\\MVC2025\\mvc2025\\MyMVC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC2025\\MyMVC2025.csproj": {
+    "C:\\MVC2025\\mvc2025\\MyMVC2025\\MyMVC2025.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC2025\\MyMVC2025.csproj",
+        "projectUniqueName": "C:\\MVC2025\\mvc2025\\MyMVC2025\\MyMVC2025.csproj",
         "projectName": "MyMVC2025",
-        "projectPath": "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC2025\\MyMVC2025.csproj",
+        "projectPath": "C:\\MVC2025\\mvc2025\\MyMVC2025\\MyMVC2025.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC2025\\obj\\",
+        "outputPath": "C:\\MVC2025\\mvc2025\\MyMVC2025\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Github\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj"
+              "C:\\MVC2025\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj": {
+                "projectPath": "C:\\MVC2025\\mvc2025\\MyMVC.Model\\MyMVC.Model.csproj"
               }
             }
           }
